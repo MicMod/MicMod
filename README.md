@@ -10,7 +10,7 @@ My name is Michał Modzelewski. I'm studying at Warsaw University of Technology 
 ![](https://img.shields.io/badge/Code-Matlab&Simulink-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-TensorFlow2-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit_learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataProcesing-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataProcesing-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataVisualization-Matpolotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
