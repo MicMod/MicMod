@@ -4,7 +4,7 @@ My name is Michał Modzelewski. I'm studying at Warsaw University of Technology 
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) </br>
-![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
 
 
