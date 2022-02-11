@@ -1,5 +1,5 @@
 ### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Michał Modzelewski. I'm studying at Warsaw University of Technology for my Bachelor of Science in Aerospace Engineering. Since last year I have started developing in the field of machine learning.
+My name is Michał Modzelewski. I'm studying at Warsaw University of Technology for my Master of Science in Aerospace Engineering. I work as a software engineer ROS/C++/Python. In addition to robots programming, I'm also interested in machine learning and investing.
 
 ### 🔧 Technologies & Tools
 
